@@ -1,1 +1,1 @@
-Project is based on the implementation of edge detection by [@Vibeke Bertelsen](https://twitter.com/vibeke_udart).
+First version is based on the implementation of edge detection by [@Vibeke Bertelsen](https://twitter.com/vibeke_udart). Second version is from [Josh Beckwith](https://github.com/positlabs)'s demo built on top of [Kernel edge detection](https://en.wikipedia.org/wiki/Kernel_(image_processing)).
